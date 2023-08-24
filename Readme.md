@@ -9,6 +9,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="JQuery" src="https://img.shields.io/badge/jquery-%234285F4.svg?style=flat&logo=jquery&logoColor=white"/>
+  <img alt="Nide.js" src="https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=node.js&logoColor=#blue"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ffffff?style=flat&logo=laravel&logoColor=red" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-ffffff?style=flat&logo=codeigniter&logoColor=#dd4814" />
