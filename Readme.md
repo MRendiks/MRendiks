@@ -32,8 +32,8 @@
 
 <h3>📈 Github Stats</h3>
 <p>
-  <img alt="Profile overview" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/overview.svg">
-  <img alt="Repo languages overall" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/languages.svg" />
+  <img alt="Profile overview" src="https://raw.githubusercontent.com/MRendiks/github-stats-transparent/output/generated/overview.svg">
+  <img alt="Repo languages overall" src="https://raw.githubusercontent.com/MRendiks/github-stats-transparent/output/generated/languages.svg" />
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%206%20mins-blue)
