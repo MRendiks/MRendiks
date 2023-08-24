@@ -1,5 +1,5 @@
 <h1>Hello 😎</h1>
-<p>Welcome to my GitHub page! </br> I'm Rendi, Tech enthusiast from <img src="./images/pin.png" width="13"/> <b>Sidoarjo, Indonesia</b>. Fresh-graduate Informatics Engineering, Yogyakarta Technology University has 4 months internship experience as an AI engineer and participating in program Bangkit Academy for 6 months from Google, GOTO, & Traveloka. Passionate about building models that fix problems. Relevant skills include data science, Machine Learning, Web Development, Mobile Development, Problem Solving, Programming, and Creative thinking</p>
+<p>Welcome to my GitHub page! </br> I'm Rendi, Tech enthusiast from <img src="./images/pin.png" width="13"/> <b>Sidoarjo, Indonesia</b>. Fresh-graduate Informatics Engineering, Yogyakarta Technology University has 4 months internship experience as an AI engineer and participating as Machine Learning Trainee in program Bangkit Academy for 6 months from Google, GOTO, & Traveloka. Passionate about building models that fix problems. Relevant skills include data science, Machine Learning, Web Development, Mobile Development, Problem Solving, Programming, and Creative thinking</p>
 
 <h3>👨‍💻 Things I code with</h3>
 <p>
