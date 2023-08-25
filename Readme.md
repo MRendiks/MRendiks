@@ -96,6 +96,8 @@ HTML                     2 repos             ███░░░░░░░░�
 Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRendiks&layout=compact)
  Last Updated on 20/09/2023 00:54:52 UTC
 <!--END_SECTION:waka-->
 </p>
