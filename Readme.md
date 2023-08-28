@@ -9,12 +9,14 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="JQuery" src="https://img.shields.io/badge/jquery-%234285F4.svg?style=flat&logo=jquery&logoColor=white"/>
-  <img alt="Nide.js" src="https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=node.js&logoColor=#blue"/>
+  <img alt="React.js" src="https://img.shields.io/badge/React-ffffff?style=flat&logo=react&logoColor=#61DBFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-ffffff?style=flat&logo=node.js&logoColor=#blue"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ffffff?style=flat&logo=laravel&logoColor=red" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-ffffff?style=flat&logo=codeigniter&logoColor=#dd4814" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/Mongo-ffffff?style=flat&logo=mongodb&logoColor=#4DB33D"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   
 
