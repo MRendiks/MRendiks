@@ -1,5 +1,11 @@
 <h1>Hello 😎</h1>
-<p>Welcome to my GitHub page! </br> I'm Rendi, Tech enthusiast from <img src="./images/pin.png" width="13"/> <b>Sidoarjo, Indonesia</b>. Fresh-graduate Informatics Engineering, Yogyakarta Technology University has 4 months internship experience as an AI engineer and participating as Machine Learning Trainee for 6 months in program Bangkit Academy from Google, GOTO, & Traveloka. Passionate about building models that fix problems. Relevant skills include data science, Machine Learning, Web Development, Mobile Development, Problem Solving, Programming, and Creative thinking</p>
+<p>Welcome to my GitHub page! </br> I'm Rendi, Tech enthusiast from <img src="./images/pin.png" width="13"/> <b>Sidoarjo, Indonesia</b>. Data Engineer with 2+ years of experience building production-grade systems and with experience leading a 6-person team for 8+ months. I specialize in real-time streaming architectures, precision ETL, and deep data observability.
+Core Focus & Innovations: 
+• Architecture: Real-time pipelines via Kafka, Change Data Capture (Debezium), and strict Medallion Architecture (Bronze, Silver, Gold). 
+• Deep Observability: Automated Grafana provisioning, full data lineage (OpenMetadata), and AI-driven Root Cause Analysis (RCA) via a Palantir-inspired Ontology. 
+• AI & Geospatial: Built Knowledge Graphs (Memgraph), config-driven ETLs, and high-performance Geospatial/POI search APIs (Elasticsearch).
+Stack: PostgreSQL, MongoDB, Redis, ClickHouse, Memgraph, Qdrant | Kafka, RabbitMQ | Airflow, dbt, Debezium | Grafana, OpenMetadata | Docker, K8s.
+I care about one thing above all: making data infrastructure trustworthy, observable, and explainable, for the teams that depend on it.</p>
 
 <h3>👨‍💻 Things I code with</h3>
 <p>
