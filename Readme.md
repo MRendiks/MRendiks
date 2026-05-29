@@ -3,7 +3,7 @@
 <p>
   Data Engineer from 📍 <b>Sidoarjo, Indonesia</b> — building production-grade data systems that are trustworthy, observable, and explainable.
   <br/><br/>
-  3 years shipping real-world pipelines · 8+ months leading a 6-person engineering team
+  Nearly 3 years shipping real-world pipelines · 8+ months leading a 6-person engineering team
 </p>
 
 ---
